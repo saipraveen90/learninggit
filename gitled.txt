@@ -6,3 +6,5 @@ hi gitled master rebase version3
 added from local
 
 adding stash message
+
+stash pop
